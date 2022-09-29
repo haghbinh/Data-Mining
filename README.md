@@ -7,4 +7,4 @@ __________________________________________________________________
 
 
 ## Python Codes:
-[1. Reading iris data into python](https://nbviewer.org/github/haghbinh/Data_Mining/blob/main/1_Data_Mining_and_Analysis/python/Iris_dataset_in_pythton.ipynb)
+[1. Reading iris data into python](https://nbviewer.org/github/haghbinh/Data_Mining/blob/main/1_Data_Mining_and_Analysis/python/Iris_dataset_reading_in_python.ipynb)
