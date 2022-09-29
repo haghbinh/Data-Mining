@@ -3,8 +3,8 @@
 __________________________________________________________________
 
 ## R Codes:
-[FSSA Visualization](https://jtrinka.github.io/visualization.html)
+[FSSA Visualization](https://github.com/haghbinh/DataMining/1_Data_Mining_and_Analysis/Recode_in_R.html)
 
 
 ## Python Codes:
-[1. Reading iris data into python](https://github.com/haghbinh/Data_Mining/blob/main/1_Data_Mining_and_Analysis/Iris_dataset_in_pythton.ipynb)
+[1. Reading iris data into python](https://github.com/haghbinh/DataMining/blob/main/1_Data_Mining_and_Analysis/Iris_dataset_in_pythton.ipynb)
