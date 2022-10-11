@@ -5,6 +5,7 @@ __________________________________________________________________
 ## R Codes:
 * [Reading iris data into R](https://haghbinh.github.io/DataMining/1_Data_Mining_and_Analysis/R/Iris_data_in_R.html)
 * [Convert continuous to discrete](https://haghbinh.github.io/DataMining/1_Data_Mining_and_Analysis/R/Recode_in_R.html)
+* [Chapter 2: Numeric Attributes](https://haghbinh.github.io/DataMining/1_Data_Mining_and_Analysis/R/chapter2.nb.html)
 
 
 ## Python Codes:
