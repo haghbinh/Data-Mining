@@ -13,3 +13,4 @@ __________________________________________________________________
 * [Reading iris data](https://nbviewer.org/github/haghbinh/Data_Mining/blob/main/1_Data_Mining_and_Analysis/python/Iris_dataset_reading_in_python.ipynb)
 * [Convert continuous to discrete](https://nbviewer.org/github/haghbinh/Data_Mining/blob/main/1_Data_Mining_and_Analysis/python/Discretize.ipynb)
 * [Distribution functions in random library](https://nbviewer.org/github/haghbinh/DataMining/blob/main/1_Data_Mining_and_Analysis/python/Distribution.ipynb)
+* [Distribution functions in random library](https://nbviewer.org/github/haghbinh/DataMining/blob/main/1_Data_Mining_and_Analysis/python/Decision_tree.ipynb)
