@@ -7,6 +7,7 @@ __________________________________________________________________
 * [Convert continuous to discrete](https://haghbinh.github.io/DataMining/1_Data_Mining_and_Analysis/R/Recode_in_R.html)
 * [Chapter 2: Numeric Attributes](https://haghbinh.github.io/DataMining/1_Data_Mining_and_Analysis/R/chapter2.nb.html)
 * [Chapter 3: Categorical Attributes](https://haghbinh.github.io/DataMining/1_Data_Mining_and_Analysis/R/Ch3_Categorical_Attributes.nb.html)
+* [K-Nearest Neighbor](https://haghbinh.github.io/DataMining/1_Data_Mining_and_Analysis/R/knn.nb.html)
 
 
 ## Python Codes:
